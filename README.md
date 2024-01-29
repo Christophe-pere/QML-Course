@@ -19,6 +19,8 @@ Research papers and YouTube videos used for the courses are cited where needed a
 
 ## Content 
 
+> None of the lectures are yet available. Lecture 5 will be given on February 1st and uploaded. Each lecture will be uploaded each week. 
+
 - [Lecture 1: Introduction](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%201/Lecture%201.pdf)
   * Course content
   * Exam modalities
