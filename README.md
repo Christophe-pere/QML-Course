@@ -67,5 +67,29 @@ Research papers and YouTube videos used for the courses are cited where needed a
 
 
 ## Exam Modalities 
+- Mid-session exam: Scientific vulgarization presentation 10 minutes per student
+- Homework: QML Research paper reproduction (team - 2 persons)
+- Final exam: Presentation of the homework like a conference, 20 minutes for the team
 
+### Mid-session subjects
+Non-exhaustive list, students can choose their own 
+
+- Tensor Networks
+- Input problem
+- Hamiltonian and QML
+- Dequantization
+- How can QML be used to simulate new materials? 
+- Quantum Advantage
+- Quantum Image Generation 
+
+### Final exam papers 
+Non-exhaustive list, students can choose their own 
+
+- [Senokosov et al. 2023, Quantum machine learning for image classification](https://arxiv.org/pdf/2304.09224.pdf) 
+- [Verdon et al., 2019, Graph Neural Networks](https://arxiv.org/pdf/1909.12264.pdf)
+- [DiAdamo et al., 2022, Practical Quantum K-Means Clustering: Performance Analysis and Applications in Energy Grid Classification](https://arxiv.org/pdf/2112.08506.pdf) 
+- [Huang et al., 2021, Experimental Quantum  Generative Adversarial Networks for Image Generation](https://arxiv.org/pdf/2010.06201v3.pdf)
+- [Grossi et al., 2022, Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection](https://arxiv.org/pdf/2208.07963.pdf)
+- [Wozniak et al., 2023, Quantum anomaly detection in the latent space of proton collision events at the LHC](https://arxiv.org/pdf/2301.10780.pdf)
+- [Slabbert et al., 2023, Pulsar Classification: Comparing Quantum Convolutional Neural Networks and Quantum Support Vector Machines](https://arxiv.org/pdf/2309.15592.pdf)
 
