@@ -5,6 +5,8 @@ The course is given to students at the end of their bachelor's degree or the beg
 
 The course is in French, so the slides are in French but can be translated. [Pennylane](https://pennylane.ai) is the primary library during the course. 
 
+Winter session January to May 2024
+
 ## Resources 
 Three books are used as primary resources for this first edition of the course (pre-alpha 2024). 
 - [Schuld M. & Petruccione F., 2021, Machine Learning with quantum computers, 2nd edition](https://link.springer.com/book/10.1007/978-3-030-83098-4)
