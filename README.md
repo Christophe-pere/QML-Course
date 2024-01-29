@@ -27,8 +27,27 @@ Three books are used as primary resources for this first edition of the course (
   * Learning process for unsupervised techniques
   * ML models 
 - [Lecture 3: Introduction to Pennylane]()
+  * Introduction to Pennylane
+  * 1 qubit gates
+  * 2 qubit gates
+  * Challenges
+  * Simple classifier
+  * How to read a paper 
 - [Lecture 4: Data encodings]()
+  * Embeddings/Encodings
+  * Basis Encoding
+  * Amplitude Encoding
+  * Time-Evolution Encoding
+  * Hamiltonian Encoding
+  * Angle Encoding
+  * Quantum Feature Maps
+  * Quantum Metric Learning
+  * [The English version was given during QSciTech QML 2024 Winter School]()
 - [Lecture 5: Elementary blocks]()
+  * Hilbert Space
+  * Hamiltonian
+  * Ansatz
+  * Barren Plateaus 
 - [Lecture 6: Quantum Optimization]()
 - [Lecture 7: Quantum Neural Networks]()
 - [Lecture 8: Quantum Kernel Methods]()
@@ -36,7 +55,11 @@ Three books are used as primary resources for this first edition of the course (
 - [Lecture 10: Learning Algorithms on Annealing Processor]()
 - [Lecture 11: Applications of Quantum Machine Learning]()
 - [Lecture 12: The quest for useful applications: Don't be afraid to fail]()
-- [Lecture 13: QML advanced techniques]()
+
+**Extra Material**:
+- [Differential Programming]()
+- [QML advanced techniques]()
+- [Quantum Graph Learning]()
 
 
 ## Exam Modalities 
