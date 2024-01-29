@@ -19,6 +19,13 @@ Three books are used as primary resources for this first edition of the course (
   * Introduction to QML
   * Talk by Catalina Albornoz 
 - [Lecture 2: Classical Machine Learning]()
+  * AI definition
+  * Problem examples
+  * Learning
+  * The three main tools for ML
+  * Risk minimization in supervised ML
+  * Learning process for unsupervised techniques
+  * ML models 
 - [Lecture 3: Introduction to Pennylane]()
 - [Lecture 4: Data encodings]()
 - [Lecture 5: Elementary blocks]()
