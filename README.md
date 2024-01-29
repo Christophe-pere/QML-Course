@@ -1,9 +1,9 @@
 # QML-Course
-I developed a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA) with [Catalina Albornoz Anzola](https://www.linkedin.com/in/catalinaalbornoz/). She is the Quantum Community Manager at [Xanadu](https://xanadu.ai). 
+I developed a course on quantum machine learning for École de Technologie Supérieure (Montréal, QC, CA) with support from [Catalina Albornoz Anzola](https://www.linkedin.com/in/catalinaalbornoz/). She is the Quantum Community Manager at [Xanadu](https://xanadu.ai). 
 
 The course is given to students at the end of their bachelor's degree or the beginning of their Master's degree. Prerequisites in linear algebra and introduction to quantum computing or quantum information are needed. The course gave an overview of the field in 2024 and the prerequisites for students interested in developing QML algorithms or applying them to real-world scenarios. 
 
-The course is in French, so the slides are in French but can be translated. [Pennylane](https://pennylane.ai) is the primary library during the course. 
+The course is in French, so the slides are in French but can be translated. [PennyLane](https://pennylane.ai) is the primary library during the course. 
 
 Winter session January to May 2024
 
@@ -30,8 +30,8 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * Risk minimization in supervised ML
   * Learning process for unsupervised techniques
   * ML models 
-- [Lecture 3: Introduction to Pennylane](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%203/Lecture%203.pdf)
-  * Introduction to Pennylane
+- [Lecture 3: Introduction to PennyLane](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%203/Lecture%203.pdf)
+  * Introduction to PennyLane
   * 1 qubit gates
   * 2 qubit gates
   * Challenges
@@ -65,6 +65,10 @@ Research papers and YouTube videos used for the courses are cited where needed a
 - [QML advanced techniques]()
 - [Quantum Graph Learning]()
 
+**Complementary Material**:
+- [Schuld M. & Killoran N., 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)
+- [Wiebe N., IPAM 2023, Quantum Machine Learning](https://www.youtube.com/watch?v=0fwsMdE8iVo)
+- [Schuld M., IPAM 2023, How to rethink quantum machine learning](https://www.youtube.com/watch?v=VVY8xcps3N4&list=PLHyI3Fbmv0SckwZK0xfc7itiq9nLWJeUF&index=1&pp=iAQB)
 
 ## Exam Modalities 
 - Mid-session exam: Scientific vulgarization presentation 10 minutes per student
