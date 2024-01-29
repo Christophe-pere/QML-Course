@@ -13,6 +13,8 @@ Three books are used as primary resources for this first edition of the course (
 - [Hidary J. D., 2021, Quantum Computing: An Applied Approach, 2nd edition](https://link.springer.com/book/10.1007/978-3-030-83274-2)
 - [Combarro E. F. & Gonzàlez-Castillo, 2023, A practical guide to quantum machine learning and Quantum optimization](https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832)
 
+Additional resource: [The Codebook by Xanadu](https://codebook.xanadu.ai/). The introduction is available in French. 
+
 Research papers and YouTube videos used for the courses are cited where needed and placed in the References slides at the end of each lecture. 
 
 ## Content 
