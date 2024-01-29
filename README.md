@@ -14,12 +14,10 @@ Three books are used as primary resources for this first edition of the course (
 ## Content 
 
 - [Lecture 1: Introduction]()
-\begin{itemize}
-\item Course content
-\item Exam modalities
-\item Introduction to QML
-\item Talk by Catalina Albornoz 
-\end{itemize}
+* Course content
+* Exam modalities
+* Introduction to QML
+* Talk by Catalina Albornoz 
 - [Lecture 2: Classical Machine Learning]()
 - [Lecture 3: Introduction to Pennylane]()
 - [Lecture 4: Data encodings]()
