@@ -19,7 +19,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
 
 ## Content 
 
-> Not all lectures are yet available. Lecture 5 will be given on February 1st and uploaded. Each lecture will be uploaded each week. 
+> Not all lectures are yet available. Lecture 6 will be given on February 8th and uploaded. Each lecture will be uploaded each week. 
 
 - [Lecture 1: Introduction](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%201/Lecture%201.pdf)
   * Course content
@@ -51,7 +51,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * Quantum Feature Maps
   * Quantum Metric Learning
   * [The English version was given during QSciTech QML 2024 Winter School](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%204/Data%20encoding%20and%20Kernels%20and%20SVM.pdf)
-- [Lecture 5: Elementary blocks]()
+- [Lecture 5: Elementary blocks](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%205/Lecture%205.pdf)
   * Hilbert Space
   * Hamiltonian
   * Ansatz
