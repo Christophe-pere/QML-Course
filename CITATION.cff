@@ -1,0 +1,10 @@
+cff-version: 1.0
+message: "If you use this course, please cite it as below."
+authors:
+- family-names: "Pere"
+  given-names: "Christophe"
+  orcid: "https://orcid.org/0000-0002-8902-787X"
+title: "QML Applied course"
+version: 1.0.0
+date-released: 2024-01-04
+url: "https://github.com/Christophe-pere/QML-Course/"
