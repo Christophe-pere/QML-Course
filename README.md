@@ -57,6 +57,11 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * Ansatz
   * Barren Plateaus 
 - [Lecture 6: Quantum Optimization]() Release February 8
+  * MaxCut & Ising Model
+  * How to correctly formulate a problem
+  * From Ising to QUBO
+  * QUBO as a tool for the Optimization problem
+  * QAOA
 - [Lecture 7: Quantum Neural Networks]() Release February 22
 - [Lecture 8: Quantum Kernel Methods]() Release February 29
 - [Lecture 9: Variational Algorithms]() Release March 14
