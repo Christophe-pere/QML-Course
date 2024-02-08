@@ -56,7 +56,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * Hamiltonian
   * Ansatz
   * Barren Plateaus 
-- [Lecture 6: Quantum Optimization](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%206/Lecture%206.pdf) Release February 8
+- [Lecture 6: Quantum Optimization](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%206/Lecture%206.pdf) 
   * MaxCut & Ising Model
   * How to correctly formulate a problem
   * From Ising to QUBO
