@@ -19,7 +19,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
 
 ## Content 
 
-> Not all lectures are yet available. Lecture 6 will be given on February 8th and uploaded. Each lecture will be uploaded each week. 
+> Not all lectures are yet available. Lecture 7 will be given on February 22nd and uploaded. Each lecture will be uploaded each week. 
 
 - [Lecture 1: Introduction](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%201/Lecture%201.pdf)
   * Course content
