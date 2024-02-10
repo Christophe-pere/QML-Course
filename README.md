@@ -5,7 +5,9 @@ The course is given to students at the end of their bachelor's degree or the beg
 
 The course is in French, so the slides are in French but can be translated. [PennyLane](https://pennylane.ai) is the primary library during the course. 
 
-Winter session January to May 2024
+> Notebooks are provided in html format. They build on demos from [PennyLane](https://pennylane.ai)
+
+Winter session January to May 2024. 
 
 ## Resources 
 Three books are used as primary resources for this first edition of the course (pre-alpha 2024). 
