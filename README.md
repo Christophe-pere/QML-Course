@@ -63,10 +63,13 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * How to correctly formulate a problem
   * From Ising to QUBO
   * QUBO as a tool for the Optimization problem
+- [Lecture 7: Variational Quantum Algorithms]() Release February 22
   * QAOA
-- [Lecture 7: Quantum Neural Networks]() Release February 22
+  * VQA
+  * VQC
+  * VQE 
 - [Lecture 8: Quantum Kernel Methods]() Release February 29
-- [Lecture 9: Variational Algorithms]() Release March 14
+- [Lecture 9: Quantum Neural Networks]() Release March 14
 - [Lecture 10: Learning Algorithms on Annealing Processor]() Release March 21 
 - [Lecture 11: Applications of Quantum Machine Learning]() Release March 28 
 - [Lecture 12: The quest for useful applications: Don't be afraid to fail]() Release April 11 
