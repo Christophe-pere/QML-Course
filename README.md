@@ -55,7 +55,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * [The English version was given during QSciTech QML 2024 Winter School](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%204/Data%20encoding%20and%20Kernels%20and%20SVM.pdf)
 - [Lecture 5: Elementary blocks](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%205/Lecture%205.pdf)
   * Hilbert Space
-  * Hamiltonian
+  * [Hamiltonian](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%205/Hamiltonian.pdf) by [Antoine Lemelin](https://www.linkedin.com/in/antoine-lemelin-6b9929238/)
   * Ansatz
   * Barren Plateaus 
 - [Lecture 6: Quantum Optimization](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%206/Lecture%206.pdf) 
