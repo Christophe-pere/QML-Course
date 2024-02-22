@@ -66,7 +66,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
 - [Lecture 7: Variational Quantum Algorithms](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%207/Lecture%207.pdf) Release February 22
   * QAOA
   * VQA
-  * VQE
+  * VQE - We weren't able to reach this point after 2h45. This part will be given on February 29
   * VQC 
 - [Lecture 8: Quantum Kernel Methods]() Release February 29
 - [Lecture 9: Quantum Neural Networks]() Release March 14
