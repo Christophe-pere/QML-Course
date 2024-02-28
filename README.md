@@ -111,3 +111,12 @@ Non-exhaustive list, students can choose their own
 - [Wozniak et al., 2023, Quantum anomaly detection in the latent space of proton collision events at the LHC](https://arxiv.org/pdf/2301.10780.pdf)
 - [Slabbert et al., 2023, Pulsar Classification: Comparing Quantum Convolutional Neural Networks and Quantum Support Vector Machines](https://arxiv.org/pdf/2309.15592.pdf)
 
+## Feedbacks 
+
+Currently, the feedbacks I have on the course are: 
+- Add Learning theory on a quantum system (PAC learning)
+- Add information extraction from a circuit (swap and Hadamard tests)
+- Add Reinforcement Learning in Course 2
+- Prepare a pdf on how to install the libraries for course 3 
+- Course 4 on data encoding needs to be more detailed and add examples and why this is important for the algorithms 
+
