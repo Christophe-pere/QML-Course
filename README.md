@@ -68,7 +68,9 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * VQA
   * VQE - We weren't able to reach this point after 2h45. This part will be given on February 29
   * VQC 
-- [Lecture 8: Quantum Kernel Methods]() Release February 29
+- [Lecture 8: Quantum Kernel Methods](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%208/Lecture%208.pdf) Release February 29
+  * SVM
+  * QSVM and kernels 
 - [Lecture 9: Quantum Neural Networks]() Release March 14
 - [Lecture 10: Learning Algorithms on Annealing Processor]() Release March 21 
 - [Lecture 11: Applications of Quantum Machine Learning]() Release March 28 
