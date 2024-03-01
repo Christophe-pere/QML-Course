@@ -63,15 +63,19 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * How to correctly formulate a problem
   * From Ising to QUBO
   * QUBO as a tool for the Optimization problem
-- [Lecture 7: Variational Quantum Algorithms](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%207/Lecture%207.pdf) Release February 22
+- [Lecture 7: Variational Quantum Algorithms](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%207/Lecture%207.pdf) 
   * QAOA
   * VQA
   * VQE - We weren't able to reach this point after 2h45. This part will be given on February 29
   * VQC 
-- [Lecture 8: Quantum Kernel Methods](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%208/Lecture%208.pdf) Release February 29
+- [Lecture 8: Quantum Kernel Methods](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%208/Lecture%208.pdf) 
   * SVM
   * QSVM and kernels 
 - [Lecture 9: Quantum Neural Networks]() Release March 14
+  * Classical Neural Networks 
+  * Quantum Neural Networks
+  * QNN Fault-tolerant
+  * Quantum Generative Models
 - [Lecture 10: Learning Algorithms on Annealing Processor]() Release March 21 
 - [Lecture 11: Applications of Quantum Machine Learning]() Release March 28 
 - [Lecture 12: The quest for useful applications: Don't be afraid to fail]() Release April 11 
