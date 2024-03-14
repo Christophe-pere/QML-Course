@@ -71,13 +71,15 @@ Research papers and YouTube videos used for the courses are cited where needed a
 - [Lecture 8: Quantum Kernel Methods](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%208/Lecture%208.pdf) 
   * SVM
   * QSVM and kernels 
-- [Lecture 9: Quantum Neural Networks]() Release March 14
+- [Lecture 9: Quantum Neural Networks](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%209/Lecture%209.pdf) 
   * Classical Neural Networks 
   * Quantum Neural Networks
-  * QNN Fault-tolerant
   * Quantum Generative Models
 - [Lecture 10: Learning Algorithms on Annealing Processor]() Release March 21 
+  * Annealing vs Digital
 - [Lecture 11: Applications of Quantum Machine Learning]() Release March 28 
+  * Quantum Graph Neural Networks
+  * QNN Fault-tolerant
 - [Lecture 12: The quest for useful applications: Don't be afraid to fail]() Release April 11 
 
 **Extra Material**:
