@@ -74,12 +74,13 @@ Research papers and YouTube videos used for the courses are cited where needed a
 - [Lecture 9: Quantum Neural Networks](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%209/Lecture%209.pdf) 
   * Classical Neural Networks 
   * Quantum Neural Networks
-- [Lecture 10: Learning Algorithms on Annealing Processor]() Release March 21 
+- [Lecture 10: Learning Algorithms on Annealing Processor](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2010/Lecture%2010.pdf) 
   * Adiabatic vs Digital
   * Quantum Annealing
   * Quantum Analog
   * Neutral Atoms
-  * Quantum Machine Learning with Neutral Atoms, presentation by [Victor Drouin-Touchette](https://www.linkedin.com/in/victor-drouin-touchette-165030124/?originalSubdomain=ca)
+  * [Introduction to Optimization using an Analog Quantum Computer](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2010/ETS-part1-qubo.pdf), presentation by [Victor Drouin-Touchette](https://www.linkedin.com/in/victor-drouin-touchette-165030124/?originalSubdomain=ca)
+  * [Graph Machine learning using Pasqal's neutral atom quantum computer](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2010/ETS-part2-qek.pdf), presentation by [Victor Drouin-Touchette](https://www.linkedin.com/in/victor-drouin-touchette-165030124/?originalSubdomain=ca)
 - [Lecture 11: Applications of Quantum Machine Learning]() Release March 28 
   * Quantum Generative Models 
   * Quantum Graph Neural Networks
