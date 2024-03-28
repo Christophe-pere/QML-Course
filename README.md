@@ -84,7 +84,7 @@ Research papers and YouTube videos used for the courses are cited where needed a
 - [Lecture 11: Applications of Quantum Machine Learning](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2011/Lecture%2011.pdf) 
   * This course was an application to solve a challenge by applying all the concepts learned during the course. Students had to build a quantum classifier on a dataset containing molecules. The data was provided by the [SherHack23](https://www.youtube.com/watch?v=aOXiLqPVMpE). They had the choice between Kernel, VQC and QNN. The objective was to test different architectures, feature maps, and preprocessing to improve performance.
   * Pictures of the leaderboard: 
-![Leaderboard](IMG_6372.jpeg)
+[[https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2011/IMG_6372.jpeg]]
  
 - [Lecture 12: The quest for useful applications: Don't be afraid to fail]() Release April 11 
 
