@@ -136,3 +136,17 @@ Currently, the feedbacks I have on the course are:
 - Prepare a pdf on how to install the libraries for course 3 
 - Course 4 on data encoding needs to be more detailed and add examples and why this is important for the algorithms 
 
+## Citation 
+Here is the bibtex code to cite this course. 
+
+```latex
+@course{Pere_QML_course,
+  author = {Pere, Christophe and Albornoz Anzola, Catalina},
+  month = {01},
+  title = {{QML Applied Course}},
+  url = {https://github.com/Christophe-pere/QML-Course/},
+  version = {1.0.0},
+  year = {2024}
+}
+```
+
