@@ -87,7 +87,11 @@ Research papers and YouTube videos used for the courses are cited where needed a
 ![Lead](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2011/IMG_6372.jpeg)
  
 - [Lecture 12: The quest for useful applications: Don't be afraid to fail]() Release April 11 
-
+  * Hype vs reality
+  * QiML
+  * Quantum Enhanced 
+  * Gaussian Boson Sampling
+  
 
 
 **Extra Material**:
