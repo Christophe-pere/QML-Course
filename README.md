@@ -86,7 +86,8 @@ Research papers and YouTube videos used for the courses are cited where needed a
   * Pictures of the leaderboard: 
 ![Lead](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2011/IMG_6372.jpeg)
  
-- [Lecture 12: The quest for useful applications: Don't be afraid to fail]() Release April 11 
+- [Lecture 12: The quest for useful applications: Don't be afraid to fail](https://github.com/Christophe-pere/QML-Course/blob/main/Lecture%2012/Lecture%2012.pdf) Release April 11 
+  > This last course was a discussion to challenge the students' understanding of the field and the course. We talked about hype, reality, inspired vs enhanced and the difference between research and science. However, we had a long discussion on the "importance" and "usefulness" of the research with the example of Gaussian boson sampling. 
   * Hype vs reality
   * QiML
   * Quantum Enhanced 
